@@ -1,0 +1,23 @@
+lists: 335  brands: 92
+packages per list: median 22, max 100, total unique 1465
+com.google.* share of all disable entries: 1994/7862 (25%)
+lists noting a package that comes back after reboot: 36
+
+top brands: TCL 74, Sony 40, Xiaomi 32, Philips 17, Skyworth 13, Hisense 11, Amazon Fire TV 7, Panasonic 6
+
+most-disabled packages:
+ 247  com.google.android.feedback
+ 203  com.google.android.play.games
+ 144  com.google.android.videos
+ 130  com.google.android.tvrecommendations
+ 126  com.google.android.youtube.tvmusic
+ 121  com.google.android.tungsten.setupwraith
+ 114  com.google.android.partnersetup
+ 111  com.google.android.katniss
+  96  com.google.android.syncadapters.calendar
+  96  com.android.printspooler
+  72  com.google.android.backdrop
+  67  com.google.android.marvin.talkback
+  67  com.android.tv.feedbackconsent
+  66  com.tcl.esticker
+  60  com.amazon.amazonvideo.livingroom
